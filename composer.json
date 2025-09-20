@@ -1,0 +1,16 @@
+{
+	"name": "breakerino/core",
+	"type": "wordpress-plugin",
+	"version": "1.0.0",
+	"authors": [
+		{
+			"name": "Breakerino",
+			"email": "hello@breakerino.me"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Breakerino\\Core\\": "src/"
+		}
+	}
+}
